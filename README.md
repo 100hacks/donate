@@ -19,7 +19,7 @@ My  first event was about building apps that impact Africa. And my next event is
 * At Impact Hub Berkeley, 2150 Allston Way #400 Berkeley, CA 94704.
 * [link to Eventbrite!](https://www.eventbrite.com/e/hackathon-to-build-100-apps-that-fix-100-real-problems-in-puerto-rico-tickets-39178125829?aff=erelexpmlt)
 
-Thank you again for allowing me to be part of this amazing comunity
+Thank you again for allowing me to be part of this amazing community
 
 ## Please send your donation and support to these cryptocurrency wallets:
 * Donate BitcoinCash 16hRqm8iPN2gT4vTXZeSYVcNG6vU2NWdBr
