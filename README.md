@@ -1,4 +1,4 @@
-# Fundraising Social Impacts Apps
+# Fundraising Social Impacts Hack-A-Thon
 ## Hi there, 
 I am happy to be part of this comunity.  I'm a Software engineer who launched a self-funded monthly Hack-A-Thon to build  apps that have a positive social and environmental impact.
 
