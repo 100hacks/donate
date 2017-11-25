@@ -9,7 +9,7 @@ I am happy to be part of this comunity.  I'm a Software engineer who launched a 
 * Source talents
 * Create an awareness
 * Self-Fund teams with great social impact 
-* Give back to the comunity
+* Give back to the community
 
 I was planning to crowdfund or get sponsors for my next events to recover my funds  untill I start reading about the blochchain and cryptocurrencies.
 
