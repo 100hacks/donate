@@ -22,8 +22,8 @@ My  first event was about building apps that impact Africa. And my next event is
 Thank you again for allowing me to be part of this amazing comunity
 
 ## Please send your donation and support to these cryptocurrency wallets:
-* Donate BitcoinCash 16hRqm8iPN2gT4vTXZeSYVcNG6vU2NWdBr![Donate BitcoinCash 16hRqm8iPN2gT4vTXZeSYVcNG6vU2NWdBr](https://github.com/100hacks/donate/blob/master/bitcoin%20cash-donation.png)
-* Donate Bitcoin 3QKszadNR721JTcAirJ329fvbtgmF21DNh ![Donate Bitcoin 3QKszadNR721JTcAirJ329fvbtgmF21DNh](https://github.com/100hacks/donate/blob/master/bitcoin-donation.png)
+* Donate BitcoinCash 16hRqm8iPN2gT4vTXZeSYVcNG6vU2NWdBr__ ![Donate BitcoinCash 16hRqm8iPN2gT4vTXZeSYVcNG6vU2NWdBr](https://github.com/100hacks/donate/blob/master/bitcoin%20cash-donation.png)
+* Donate Bitcoin 3QKszadNR721JTcAirJ329fvbtgmF21DNh__ ![Donate Bitcoin 3QKszadNR721JTcAirJ329fvbtgmF21DNh](https://github.com/100hacks/donate/blob/master/bitcoin-donation.png)
 * Donate Dash XvmyoStoHN9FxJRcroQ2UEaMvTfYaMCH1p![Donate Dash XvmyoStoHN9FxJRcroQ2UEaMvTfYaMCH1p](https://github.com/100hacks/donate/blob/master/dash-donation.png)
 * Donate Ether 0xe7aCa930F9d2bCf1413BBAa22c05b1a4eE2c444B![Donate Ether 0xe7aCa930F9d2bCf1413BBAa22c05b1a4eE2c444B](https://github.com/100hacks/donate/blob/master/ether-donation.png)
 * Donate Monero 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW7wZcoqHwRsGieySSp![Donate Monero 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW7wZcoqHwRsGieySSp](https://github.com/100hacks/donate/blob/master/monero-donation.png)
